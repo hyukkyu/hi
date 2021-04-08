@@ -1,4 +1,9 @@
 asdfsdfsdf
+<<<<<<< HEAD
 eqwerq
 qwer
 :
+=======
+zsdsdsadasdasqwe
+qweqweqweqweqweqw:
+>>>>>>> 34c476f537fa1dd5407e5f68f912f8b94206aad9
